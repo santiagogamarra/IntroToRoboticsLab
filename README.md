@@ -1,2 +1,2 @@
 # IntroToRoboticsLab
-UPTP 1151 Group B2
+UPTP 1151 Group B2 (Tuesday)
